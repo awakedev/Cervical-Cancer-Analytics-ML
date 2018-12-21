@@ -1,0 +1,6008 @@
+[
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 52,
+    "yearsSmoking": 37,
+    "packsPerYear": 37,
+    "contrasPerYear": 3,
+    "cancer": 1
+  },
+  {
+    "age": 46,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 15,
+    "cancer": 0
+  },
+  {
+    "age": 42,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 51,
+    "yearsSmoking": 34,
+    "packsPerYear": 3.4,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 45,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 1
+  },
+  {
+    "age": 44,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 2.8,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 44,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 45,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 10,
+    "cancer": 0
+  },
+  {
+    "age": 44,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 43,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 40,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 15,
+    "cancer": 0
+  },
+  {
+    "age": 41,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 43,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 42,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 40,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 43,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 15,
+    "cancer": 0
+  },
+  {
+    "age": 41,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 10,
+    "cancer": 0
+  },
+  {
+    "age": 40,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 40,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 15,
+    "cancer": 1
+  },
+  {
+    "age": 40,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 44,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 39,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 39,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 3,
+    "packsPerYear": 0.04,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 41,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 22,
+    "cancer": 0
+  },
+  {
+    "age": 40,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 19,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": 10,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 38,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 39,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.58,
+    "cancer": 0
+  },
+  {
+    "age": 39,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 2.4,
+    "contrasPerYear": 9,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 12,
+    "packsPerYear": 6,
+    "contrasPerYear": 13,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": "0",
+    "packsPerYear": "0",
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 40,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 41,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 18,
+    "packsPerYear": 9,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 11,
+    "cancer": 0
+  },
+  {
+    "age": 41,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 15,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 7,
+    "packsPerYear": 1.6,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 19,
+    "packsPerYear": 19,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 12,
+    "cancer": 0
+  },
+  {
+    "age": 38,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 16,
+    "cancer": 1
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 21,
+    "packsPerYear": 21,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.33,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 15,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.33,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 15,
+    "packsPerYear": 0.32,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 13,
+    "packsPerYear": 2.6,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 16,
+    "packsPerYear": 0.8,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 10,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 15,
+    "packsPerYear": 15,
+    "contrasPerYear": 14,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 9,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 38,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 10,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 10,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 8,
+    "packsPerYear": 2,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 13,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 4,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": 2.282200521,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 10,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 19,
+    "packsPerYear": 5.7,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 9,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.66,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": "0",
+    "packsPerYear": "0",
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 11,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 12,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 10,
+    "packsPerYear": 1,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 22,
+    "packsPerYear": 3.3,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 14,
+    "packsPerYear": 3.5,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 12,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 16,
+    "packsPerYear": 12,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0.5,
+    "packsPerYear": 0.025,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 11,
+    "packsPerYear": 2.75,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 9,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 12,
+    "packsPerYear": 12,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 9,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 9,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": "0",
+    "packsPerYear": "0",
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 12,
+    "packsPerYear": 6,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 1
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 9,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1.5,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 2,
+    "packsPerYear": 0.2,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 7,
+    "packsPerYear": 1.4,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.42,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.67,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 9,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 5,
+    "packsPerYear": 5,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 14,
+    "packsPerYear": 2.1,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 10,
+    "packsPerYear": 2,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 4,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 7,
+    "packsPerYear": 0.7,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 8,
+    "packsPerYear": 0.8,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.67,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 6,
+    "packsPerYear": 1.2,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.42,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 10,
+    "packsPerYear": 7.5,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 5,
+    "packsPerYear": 1.25,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": "0",
+    "packsPerYear": "0",
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 3,
+    "packsPerYear": 3,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 15,
+    "packsPerYear": 0.75,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": "0",
+    "packsPerYear": "0",
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 1,
+    "packsPerYear": 0.1,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0.5,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.66,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.58,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2.282200521,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 1
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 48,
+    "yearsSmoking": 32,
+    "packsPerYear": 8,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 4,
+    "packsPerYear": 3,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 2,
+    "packsPerYear": 0.2,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 45,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.42,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.33,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.75,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 9,
+    "packsPerYear": 2.25,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": 0.75,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 2,
+    "packsPerYear": 1,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 41,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 3,
+    "packsPerYear": 3,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 2,
+    "packsPerYear": 0.003,
+    "contrasPerYear": 0.58,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.58,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 7,
+    "packsPerYear": 3.5,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 4,
+    "packsPerYear": 0.2,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 13,
+    "packsPerYear": 7,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 3,
+    "packsPerYear": 0.45,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.33,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.58,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.42,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 1,
+    "packsPerYear": 0.15,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.33,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0.5,
+    "packsPerYear": 0.05,
+    "contrasPerYear": 0.33,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 5,
+    "packsPerYear": 5,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 1,
+    "packsPerYear": 0.25,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.42,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 1
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 6,
+    "packsPerYear": 1.2,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.66,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": "0",
+    "packsPerYear": "0",
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 14,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 14,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 14,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 5,
+    "packsPerYear": 5,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 39,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 41,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 38,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 38,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 9,
+    "packsPerYear": 9,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 39,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 8,
+    "packsPerYear": 2,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.33,
+    "cancer": 0
+  },
+  {
+    "age": 39,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 16,
+    "packsPerYear": 4.8,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 9,
+    "packsPerYear": 4.5,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2.5,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 9,
+    "packsPerYear": 4.5,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 42,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.66,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 1,
+    "packsPerYear": 0.2,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 2,
+    "packsPerYear": 1,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 2,
+    "packsPerYear": 0.05,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4.5,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 9,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 1,
+    "packsPerYear": 0.1,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": "0",
+    "packsPerYear": "0",
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.42,
+    "cancer": 0
+  },
+  {
+    "age": 40,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 38,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6.5,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 16,
+    "packsPerYear": 2.4,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": "0",
+    "packsPerYear": "0",
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 10,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 44,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 5,
+    "packsPerYear": 0.4,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 13,
+    "packsPerYear": 0.37,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 1
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 16,
+    "packsPerYear": 1.6,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.33,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0,
+    "yearsSmoking": null
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 7,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 15,
+    "packsPerYear": 3,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 45,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.66,
+    "cancer": 0
+  },
+  {
+    "age": 41,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.17,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 6,
+    "packsPerYear": 6,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 5,
+    "packsPerYear": 0.75,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.58,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 11,
+    "packsPerYear": 2.2,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 1
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 0.05,
+    "contrasPerYear": 0.33,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.75,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 20,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 8,
+    "packsPerYear": 0.16,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 8,
+    "packsPerYear": 1.2,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 5,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1.5,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1.5,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 41,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 20,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3.5,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 3,
+    "packsPerYear": 3,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 39,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 1,
+    "packsPerYear": 0.1,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": "0",
+    "packsPerYear": "0",
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 9,
+    "packsPerYear": 0.9,
+    "contrasPerYear": 10,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 10,
+    "packsPerYear": 1,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 41,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 59,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 45,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 9,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.41,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 22,
+    "packsPerYear": 22,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 38,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 16,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 79,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 84,
+    "yearsSmoking": 24,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 38,
+    "yearsSmoking": "0",
+    "packsPerYear": "0",
+    "contrasPerYear": 3,
+    "cancer": 1
+  },
+  {
+    "age": 47,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 20,
+    "cancer": 0
+  },
+  {
+    "age": 52,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 13,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 48,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 10,
+    "cancer": 0
+  },
+  {
+    "age": 42,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 45,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 70,
+    "yearsSmoking": 3,
+    "packsPerYear": 0.75,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 46,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 50,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 49,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 42,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 70,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 39,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 46,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 49,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 14,
+    "packsPerYear": 1.4,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 9,
+    "packsPerYear": 1.35,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.42,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.75,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 1,
+    "packsPerYear": 0.04,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 0.5,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 41,
+    "yearsSmoking": 5,
+    "packsPerYear": 2.5,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 44,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 9,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 12,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 40,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 19,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 8,
+    "packsPerYear": 4,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 7,
+    "packsPerYear": 12,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 10,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 9,
+    "cancer": 1
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 40,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 20,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 1,
+    "packsPerYear": 0.05,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 1
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 40,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 1.3,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 4,
+    "packsPerYear": 1,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 41,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 14,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 11,
+    "packsPerYear": 1.65,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 1.266972909,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 41,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 1
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 4,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": "0",
+    "packsPerYear": "0",
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": "0",
+    "packsPerYear": "0",
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 43,
+    "yearsSmoking": 28,
+    "packsPerYear": 7,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 27,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 1
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 9,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 3,
+    "packsPerYear": 1.2,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": "0",
+    "packsPerYear": "0",
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 10,
+    "packsPerYear": 0.5132021277,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 28,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 22,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 38,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 30,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 5,
+    "packsPerYear": 0.75,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 9,
+    "packsPerYear": 2.7,
+    "contrasPerYear": 17,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 1
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 20,
+    "packsPerYear": 2,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 15,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.16,
+    "cancer": 0
+  },
+  {
+    "age": 18,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 14,
+    "packsPerYear": 2.8,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0.16,
+    "packsPerYear": 0.001,
+    "contrasPerYear": 7,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 2,
+    "packsPerYear": 1,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 19,
+    "packsPerYear": 7.6,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.75,
+    "cancer": 0
+  },
+  {
+    "age": 17,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 14,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 20,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 16,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.42,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 21,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 14,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": "0",
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.66,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 3,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 6,
+    "cancer": 1
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 42,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.75,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 40,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 1,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 16,
+    "packsPerYear": 8,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 37,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 11,
+    "packsPerYear": 5.5,
+    "contrasPerYear": 0.25,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 1
+  },
+  {
+    "age": 24,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 36,
+    "yearsSmoking": 6,
+    "packsPerYear": 0.3,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 2,
+    "cancer": 0
+  },
+  {
+    "age": 26,
+    "yearsSmoking": 9,
+    "packsPerYear": 1.35,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.75,
+    "cancer": 0
+  },
+  {
+    "age": 35,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 30,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 31,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 11,
+    "packsPerYear": 0.16,
+    "contrasPerYear": 6,
+    "cancer": 1
+  },
+  {
+    "age": 19,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 23,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 43,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 5,
+    "cancer": 0
+  },
+  {
+    "age": 34,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0,
+    "cancer": 0
+  },
+  {
+    "age": 32,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 8,
+    "cancer": 0
+  },
+  {
+    "age": 25,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 33,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.08,
+    "cancer": 0
+  },
+  {
+    "age": 29,
+    "yearsSmoking": 0,
+    "packsPerYear": 0,
+    "contrasPerYear": 0.5,
+    "cancer": 0
+  }
+]
