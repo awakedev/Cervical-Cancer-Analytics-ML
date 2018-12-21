@@ -1,31 +1,28 @@
 const brain = require('brain.js')
 const cancerData = require('./cancerData.json')
-const SCALAR = 100;
 
-let net = new brain.NeuralNetwork();
-let riskFactorArray = [];
-
+let net = new brain.NeuralNetwork(); 
+let riskFactorArray = []; 0 
+ 
 for (let i = 1; i < cancerData.length; i++) {
 
-    riskFactorArray.push({
-        input: {
+    riskFactorArray.push({  
+    
+        input: { 
             yrsSmoking: cancerData[i].yearsSmoking / 100,
         },
         output: {
-
             //yrsSmoking: cancerData[i].yearsSmoking ,
             ag: cancerData[i].age / 100,
             ctrsPY: cancerData[i].contrasPerYear / 100,
             cncr: cancerData[i].cancer / 10,
-
-
         }
     })
 }
 
 net.train(riskFactorArray, {
     iterations: 5000, // the maximum times to iterate the training data --> number greater than 0
-    errorThresh: 0.00005, // the acceptable error percentage from training data --> number between 0 and 1
+    errorThresh: 0.05, // the acceptable error percentage from training data --> number between 0 and 1
     log: true, // true to use console.log, when a function is supplied it is used --> Either true or a function
     logPeriod: 10, // iterations between logging out --> number greater than 0
     learningRate: 0.3, // scales with delta to effect training rate --> number between 0 and 1
