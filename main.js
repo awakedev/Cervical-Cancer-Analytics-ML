@@ -30,7 +30,7 @@ net.train(riskFactorArray, {
 
 let result = net.run({
     //age: 30,
-    yrsSmoking: 0,
+    yrsSmoking: 20,
     //cncr: 0.0,
     // yc: 0.0,
 });
