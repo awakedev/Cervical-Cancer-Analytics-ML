@@ -1,4 +1,4 @@
-cervicalCancerAnalytics
+Cervical Cancer Analytics - ML
 =======================
 
 This is an demonstration of how to use brain.js using inputs and
